@@ -41,14 +41,7 @@ To come up with a solution for the bitmap code challenge
 2. Enter the input test cases
 
 ##### Input data format
-
-<html>
-<body>
-<div>
-<p><em><strong>Note:</strong> Please follow the specified format for input, using invalid format may not yield the right result</p></em>
-</div>
-</body>
-</html>
+> <em><strong>Note:</strong> Please follow the specified format for input, using invalid format may not yield the right result</p></em>
 
 ###### For single test
 ```
