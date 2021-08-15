@@ -84,7 +84,7 @@ To come up with a solution for the bitmap code challenge
 ```
 #### Option 2: BFS method to find nearest path
 Now you can also run the algorthm using the BFS method.
-> Please make sure to update the [calculateNearestBfs.ts]("./calculateNearestBfs.ts") file with required input.
+> Please make sure to update the [calculateNearestBfs.ts](/calculateNearestBfs.ts) file with required input.
 
 Run command `yarn run start:bfs`
 
