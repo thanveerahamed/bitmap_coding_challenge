@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "./node_modules/ts-node/dist/bin.js index.ts",
+    "start:bfs": "./node_modules/ts-node/dist/bin.js calculateNearestBfs.ts",
     "lint": "eslint . --ext .ts",
     "prettier-format": "prettier --config .prettierrc 'src/**/*.ts' --write",
     "test": "jest"

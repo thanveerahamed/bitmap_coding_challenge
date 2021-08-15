@@ -82,8 +82,13 @@ To come up with a solution for the bitmap code challenge
 1 2
 
 ```
+#### Option 2: BFS method to find nearest path
+Now you can also run the algorthm using the BFS method.
+> Please make sure to update the [calculateNearestBfs.ts]("./calculateNearestBfs.ts") file with required input.
 
-#### Option 2: via jest
+Run command `yarn run start:bfs`
+
+#### Option 3: via jest
 > <em>**NOTE**: jest test do not include coverage. They only test the main login added for bitmap coding challenge</em>
 1. Add or update test cases in file [nearestPathCalculator.test.ts]("./test/nearestPathCalculator.test.ts")
 2. Run `npm run test`
