@@ -90,6 +90,6 @@ Run command `yarn run start:bfs`
 
 #### Option 3: via jest
 > <em>**NOTE**: jest test do not include coverage. They only test the main login added for bitmap coding challenge</em>
-1. Add or update test cases in file [nearestPathCalculator.test.ts](/test/nearestPathCalculator.test.ts)
+1. Add or update test cases in file [nearestPathCalculator.test.ts](/src/test/nearestPathCalculator.test.ts)
 2. Run `npm run test`
 
